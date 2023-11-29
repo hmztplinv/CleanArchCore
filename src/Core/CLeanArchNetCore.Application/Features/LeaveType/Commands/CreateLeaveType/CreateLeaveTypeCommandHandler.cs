@@ -14,6 +14,12 @@ public class CreateLeaveTypeCommandHandler : IRequestHandler<CreateLeaveTypeComm
 
     public async Task<int> Handle(CreateLeaveTypeCommand request, CancellationToken cancellationToken)
     {
+        var validator=new CreateLeaveTypeCommandValidator(_leaveTypeRepository);
+        var validationResult = await validator.ValidateAsync(request);
+        if (validationResult.Errors.Any())
+        {
+            throw new BadRequestException("Invalid LeaveType Input",validationResult);
+        }
         var leaveTypeToCreate = _mapper.Map<LeaveType>(request);
         await _leaveTypeRepository.CreateAsync(leaveTypeToCreate);
         return leaveTypeToCreate.Id;
