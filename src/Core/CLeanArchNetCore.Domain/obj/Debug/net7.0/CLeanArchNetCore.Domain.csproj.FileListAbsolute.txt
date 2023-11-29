@@ -1,0 +1,12 @@
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Domain\bin\Debug\net7.0\CLeanArchNetCore.Domain.deps.json
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Domain\bin\Debug\net7.0\CLeanArchNetCore.Domain.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Domain\bin\Debug\net7.0\CLeanArchNetCore.Domain.pdb
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Domain\obj\Debug\net7.0\CLeanArchNetCore.Domain.csproj.AssemblyReference.cache
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Domain\obj\Debug\net7.0\CLeanArchNetCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Domain\obj\Debug\net7.0\CLeanArchNetCore.Domain.AssemblyInfoInputs.cache
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Domain\obj\Debug\net7.0\CLeanArchNetCore.Domain.AssemblyInfo.cs
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Domain\obj\Debug\net7.0\CLeanArchNetCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Domain\obj\Debug\net7.0\CLeanArchNetCore.Domain.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Domain\obj\Debug\net7.0\refint\CLeanArchNetCore.Domain.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Domain\obj\Debug\net7.0\CLeanArchNetCore.Domain.pdb
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Domain\obj\Debug\net7.0\ref\CLeanArchNetCore.Domain.dll

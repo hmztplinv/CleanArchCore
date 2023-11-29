@@ -1,0 +1,15 @@
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\bin\Debug\net7.0\CLeanArchNetCore.Application.deps.json
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\bin\Debug\net7.0\CLeanArchNetCore.Application.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\bin\Debug\net7.0\CLeanArchNetCore.Application.pdb
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\bin\Debug\net7.0\CLeanArchNetCore.Domain.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\bin\Debug\net7.0\CLeanArchNetCore.Domain.pdb
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\obj\Debug\net7.0\CLeanArchNetCore.Application.csproj.AssemblyReference.cache
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\obj\Debug\net7.0\CLeanArchNetCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\obj\Debug\net7.0\CLeanArchNetCore.Application.AssemblyInfoInputs.cache
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\obj\Debug\net7.0\CLeanArchNetCore.Application.AssemblyInfo.cs
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\obj\Debug\net7.0\CLeanArchNetCore.Application.csproj.CoreCompileInputs.cache
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\obj\Debug\net7.0\CLeanArchNetCore.Application.csproj.CopyComplete
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\obj\Debug\net7.0\CLeanArchNetCore.Application.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\obj\Debug\net7.0\refint\CLeanArchNetCore.Application.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\obj\Debug\net7.0\CLeanArchNetCore.Application.pdb
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Core\CLeanArchNetCore.Application\obj\Debug\net7.0\ref\CLeanArchNetCore.Application.dll
