@@ -11,6 +11,6 @@ public class LeaveTypeRepository:GenericRepository<LeaveType>,ILeaveTypeReposito
 
     public async Task<bool> IsLeaveTypeNameUnique(string name)
     {
-        return await _dbContext.LeaveTypes.AnyAsync(lt => lt.Name == name);
+        return await _dbContext.LeaveTypes.AnyAsync(lt => lt.Name == name)==false;
     }
 }

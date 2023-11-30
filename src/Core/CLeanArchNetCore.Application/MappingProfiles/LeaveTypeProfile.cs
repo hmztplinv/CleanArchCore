@@ -6,7 +6,7 @@ public class LeaveTypeProfile:Profile
     {
         CreateMap<LeaveType, LeaveTypeDto>().ReverseMap();
         CreateMap<LeaveType,LeaveTypeDetailsDto>();
-        // CreateMap<LeaveType, CreateLeaveTypeDto>().ReverseMap();
-        // CreateMap<LeaveType, UpdateLeaveTypeDto>().ReverseMap();
+        CreateMap<CreateLeaveTypeCommand,LeaveType>();
+        CreateMap<UpdateLeaveTypeCommand,LeaveType>();
     }
 }

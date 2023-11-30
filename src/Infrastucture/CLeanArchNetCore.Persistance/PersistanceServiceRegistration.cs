@@ -9,7 +9,7 @@ public static class PersistanceServiceRegistration
     {
         services.AddDbContext<CleanDatabaseContext>(options =>
             options.UseSqlServer(
-                configuration.GetConnectionString("CleanDatabaseConnection")));
+                configuration.GetConnectionString("CleanDatabaseConnectionString")));
 
         services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
         services.AddScoped<ILeaveAllocationRepository, LeaveAllocationRepository>();
