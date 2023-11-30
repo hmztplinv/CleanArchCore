@@ -1,0 +1,17 @@
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\bin\Debug\net7.0\CLeanArchNetCore.Persistance.deps.json
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\bin\Debug\net7.0\CLeanArchNetCore.Persistance.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\bin\Debug\net7.0\CLeanArchNetCore.Persistance.pdb
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\bin\Debug\net7.0\CLeanArchNetCore.Application.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\bin\Debug\net7.0\CLeanArchNetCore.Domain.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\bin\Debug\net7.0\CLeanArchNetCore.Application.pdb
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\bin\Debug\net7.0\CLeanArchNetCore.Domain.pdb
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\obj\Debug\net7.0\CLeanArchNetCore.Persistance.csproj.AssemblyReference.cache
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\obj\Debug\net7.0\CLeanArchNetCore.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\obj\Debug\net7.0\CLeanArchNetCore.Persistance.AssemblyInfoInputs.cache
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\obj\Debug\net7.0\CLeanArchNetCore.Persistance.AssemblyInfo.cs
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\obj\Debug\net7.0\CLeanArchNetCore.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\obj\Debug\net7.0\CLeanArchNetCore.Persistance.csproj.CopyComplete
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\obj\Debug\net7.0\CLeanArchNetCore.Persistance.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\obj\Debug\net7.0\refint\CLeanArchNetCore.Persistance.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\obj\Debug\net7.0\CLeanArchNetCore.Persistance.pdb
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Persistance\obj\Debug\net7.0\ref\CLeanArchNetCore.Persistance.dll
