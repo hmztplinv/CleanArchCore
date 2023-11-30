@@ -10,6 +10,12 @@ public static class PersistanceServiceRegistration
         services.AddDbContext<CleanDatabaseContext>(options =>
             options.UseSqlServer(
                 configuration.GetConnectionString("CleanDatabaseConnection")));
+
+        services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+        services.AddScoped<ILeaveAllocationRepository, LeaveAllocationRepository>();
+        services.AddScoped<ILeaveRequestRepository, LeaveRequestRepository>();
+        services.AddScoped<ILeaveTypeRepository, LeaveTypeRepository>();
+
         return services;
     }
 }
