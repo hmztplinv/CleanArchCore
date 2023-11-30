@@ -5,16 +5,20 @@ public class GetLeaveTypesQueryHandler:IRequestHandler<GetLeaveTypesQuery,List<L
 {
     private readonly ILeaveTypeRepository _leaveTypeRepository;
     private readonly IMapper _mapper;
+    private readonly IAppLogger<GetLeaveTypesQueryHandler> _logger;
 
-    public GetLeaveTypesQueryHandler(ILeaveTypeRepository leaveTypeRepository, IMapper mapper)
+    public GetLeaveTypesQueryHandler(ILeaveTypeRepository leaveTypeRepository, IMapper mapper, IAppLogger<GetLeaveTypesQueryHandler> logger)
     {
         _leaveTypeRepository = leaveTypeRepository;
         _mapper = mapper;
+        _logger = logger;
     }
 
     public async Task<List<LeaveTypeDto>> Handle(GetLeaveTypesQuery request, CancellationToken cancellationToken)
     {
         var leaveTypes = await _leaveTypeRepository.GetAsync();
-        return _mapper.Map<List<LeaveTypeDto>>(leaveTypes);
+        var leaveTypesDto = _mapper.Map<List<LeaveTypeDto>>(leaveTypes);
+        _logger.LogInformation("Leave Types Returned");
+        return leaveTypesDto;
     }
 }

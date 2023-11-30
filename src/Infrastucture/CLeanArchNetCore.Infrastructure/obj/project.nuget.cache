@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Stosrodny1FDKxCqmL2hwSCnAEHo4rGvK+ZT1aSyNC5Pm+E9b5Rsn6s4MqKdGiuB81IruMzhuYgMdRBiqthnPw==",
+  "dgSpecHash": "9+twiy5fgpQueQLU1JjYSlAEpusJTwiJV18OfWv6UMDmtjV8yX4k+fNxD6wE+T8YBUVxe7TR0aWhnISO/tvJDw==",
   "success": true,
   "projectFilePath": "C:\\Users\\hmztp\\Desktop\\CLeanArchNetCore\\src\\Infrastucture\\CLeanArchNetCore.Infrastructure\\CLeanArchNetCore.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\hmztp\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\hmztp\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
     "C:\\Users\\hmztp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\hmztp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\hmztp\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\hmztp\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
     "C:\\Users\\hmztp\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
