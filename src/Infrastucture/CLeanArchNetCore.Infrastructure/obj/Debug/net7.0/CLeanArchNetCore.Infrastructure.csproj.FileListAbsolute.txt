@@ -1,0 +1,17 @@
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\bin\Debug\net7.0\CLeanArchNetCore.Infrastructure.deps.json
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\bin\Debug\net7.0\CLeanArchNetCore.Infrastructure.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\bin\Debug\net7.0\CLeanArchNetCore.Infrastructure.pdb
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\bin\Debug\net7.0\CLeanArchNetCore.Application.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\bin\Debug\net7.0\CLeanArchNetCore.Domain.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\bin\Debug\net7.0\CLeanArchNetCore.Application.pdb
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\bin\Debug\net7.0\CLeanArchNetCore.Domain.pdb
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\obj\Debug\net7.0\CLeanArchNetCore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\obj\Debug\net7.0\CLeanArchNetCore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\obj\Debug\net7.0\CLeanArchNetCore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\obj\Debug\net7.0\CLeanArchNetCore.Infrastructure.AssemblyInfo.cs
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\obj\Debug\net7.0\CLeanArchNetCore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\obj\Debug\net7.0\CLeanArchNetCore.Infrastructure.csproj.CopyComplete
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\obj\Debug\net7.0\CLeanArchNetCore.Infrastructure.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\obj\Debug\net7.0\refint\CLeanArchNetCore.Infrastructure.dll
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\obj\Debug\net7.0\CLeanArchNetCore.Infrastructure.pdb
+C:\Users\hmztp\Desktop\CLeanArchNetCore\src\Infrastucture\CLeanArchNetCore.Infrastructure\obj\Debug\net7.0\ref\CLeanArchNetCore.Infrastructure.dll
