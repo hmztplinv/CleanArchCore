@@ -21,9 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLeanArchNetCore.Applicatio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLeanArchNetCore.Persistance", "src\Infrastucture\CLeanArchNetCore.Persistance\CLeanArchNetCore.Persistance.csproj", "{70644909-3500-42A3-AE69-DFE55053D9A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLeanArchNetCore.Infrastructure", "src\Infrastucture\CLeanArchNetCore.Infrastructure\CLeanArchNetCore.Infrastructure.csproj", "{1B7E125B-A913-457D-868F-C05121B6F6E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLeanArchNetCore.Infrastructure", "src\Infrastucture\CLeanArchNetCore.Infrastructure\CLeanArchNetCore.Infrastructure.csproj", "{1B7E125B-A913-457D-868F-C05121B6F6E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLeanArchNetCore.Api", "src\Api\CLeanArchNetCore.Api\CLeanArchNetCore.Api.csproj", "{82752AA0-9DDF-46F0-ABFE-2084F25EA8C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLeanArchNetCore.Api", "src\Api\CLeanArchNetCore.Api\CLeanArchNetCore.Api.csproj", "{82752AA0-9DDF-46F0-ABFE-2084F25EA8C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLeanArchNetCore.Application.UnitTests", "test\CLeanArchNetCore.Application.UnitTests\CLeanArchNetCore.Application.UnitTests.csproj", "{98DF6F39-DE2C-4443-B094-CAF8D46FFE04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLeanArchNetCore.Persistance.IntegrationTests", "test\CLeanArchNetCore.Persistance.IntegrationTests\CLeanArchNetCore.Persistance.IntegrationTests.csproj", "{51D0BCB5-DB2D-4124-9805-2093F823B7B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{82752AA0-9DDF-46F0-ABFE-2084F25EA8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82752AA0-9DDF-46F0-ABFE-2084F25EA8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82752AA0-9DDF-46F0-ABFE-2084F25EA8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98DF6F39-DE2C-4443-B094-CAF8D46FFE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DF6F39-DE2C-4443-B094-CAF8D46FFE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DF6F39-DE2C-4443-B094-CAF8D46FFE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DF6F39-DE2C-4443-B094-CAF8D46FFE04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51D0BCB5-DB2D-4124-9805-2093F823B7B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D0BCB5-DB2D-4124-9805-2093F823B7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D0BCB5-DB2D-4124-9805-2093F823B7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D0BCB5-DB2D-4124-9805-2093F823B7B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,6 +77,8 @@ Global
 		{70644909-3500-42A3-AE69-DFE55053D9A5} = {B43C9C0E-95E6-4BD8-9E2F-9F0A0B0BAB9F}
 		{1B7E125B-A913-457D-868F-C05121B6F6E4} = {B43C9C0E-95E6-4BD8-9E2F-9F0A0B0BAB9F}
 		{82752AA0-9DDF-46F0-ABFE-2084F25EA8C8} = {D7D2E080-27EE-4CF1-B38D-1DF48A786F77}
+		{98DF6F39-DE2C-4443-B094-CAF8D46FFE04} = {A892E4FB-FD31-4A8E-A8C5-6C03D21F5CD1}
+		{51D0BCB5-DB2D-4124-9805-2093F823B7B2} = {A892E4FB-FD31-4A8E-A8C5-6C03D21F5CD1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {40B948C5-85FF-4E8A-9222-CCFC66CE601B}
