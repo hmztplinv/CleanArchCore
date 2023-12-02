@@ -6,7 +6,7 @@ public class LeaveAllocationProfile : Profile
     {
         CreateMap<LeaveAllocationDto, LeaveAllocation>().ReverseMap();
         CreateMap<LeaveAllocation, LeaveAllocationDetailsDto>();
-        // CreateMap<CreateLeaveAllocationCommand, LeaveAllocation>();
-        // CreateMap<UpdateLeaveAllocationCommand, LeaveAllocation>();
+        CreateMap<CreateLeaveAllocationCommand, LeaveAllocation>();
+        CreateMap<UpdateLeaveAllocationCommand, LeaveAllocation>();
     }
 }
